@@ -7,7 +7,7 @@
 #define byte unsigned char
 
 using namespace std;
-void emapaque(int arr[], int len);
+void emapaque(byte arr[], int len);
 
 
 
